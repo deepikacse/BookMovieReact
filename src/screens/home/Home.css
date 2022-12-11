@@ -1,0 +1,25 @@
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    margin: 16px;
+  }
+  
+  .left {
+    width: 76%;
+  }
+  
+  .movie-poster {
+    height: 100%;
+    width: auto;
+  }
+  
+  .right {
+    padding-top: 20px;
+    width: 24%;
+  }
+  
+  .released-movie-grid-item {
+    margin: 15px;
+  }
